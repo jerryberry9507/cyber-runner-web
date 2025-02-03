@@ -1,0 +1,5 @@
+git clone https://github.com/YOUR-USERNAME/cyber-runner-web.git
+cd cyber-runner-web
+git add .
+git commit -m "Initial upload"
+git push origin main
